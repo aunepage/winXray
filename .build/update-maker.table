@@ -1,0 +1,5 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
+description="更新默认服务器配置。";
+outputDir="/release/update/"
+}

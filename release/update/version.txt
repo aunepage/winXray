@@ -1,0 +1,8 @@
+{
+    "description":"更新默认服务器配置。",
+    "format":".lzma",
+    "main":"\\winXray.exe",
+    "updater":"\\winXray.exe",
+    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update/",
+    "version":"1.3.03"
+}
